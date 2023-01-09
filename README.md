@@ -2,7 +2,7 @@ An AI powered log analyzer to ensure the below security compliance in Log files
 My idea is to analyze log files of Aleo transactions done with aleo commands and provide identity and security analytics on the data
 
 1.System of Record (SOR) :
-Information storage and retrieval system 
+1.1 Information storage and retrieval system 
 Multiple data sources with remote access.
 Log Data Storage in a generalized format
 
